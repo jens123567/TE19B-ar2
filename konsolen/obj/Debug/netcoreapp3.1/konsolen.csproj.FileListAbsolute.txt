@@ -1,0 +1,13 @@
+C:\kod\c#\TE19B-ar2\konsolen\bin\Debug\netcoreapp3.1\konsolen.exe
+C:\kod\c#\TE19B-ar2\konsolen\bin\Debug\netcoreapp3.1\konsolen.deps.json
+C:\kod\c#\TE19B-ar2\konsolen\bin\Debug\netcoreapp3.1\konsolen.runtimeconfig.json
+C:\kod\c#\TE19B-ar2\konsolen\bin\Debug\netcoreapp3.1\konsolen.runtimeconfig.dev.json
+C:\kod\c#\TE19B-ar2\konsolen\bin\Debug\netcoreapp3.1\konsolen.dll
+C:\kod\c#\TE19B-ar2\konsolen\bin\Debug\netcoreapp3.1\konsolen.pdb
+C:\kod\c#\TE19B-ar2\konsolen\obj\Debug\netcoreapp3.1\konsolen.csprojAssemblyReference.cache
+C:\kod\c#\TE19B-ar2\konsolen\obj\Debug\netcoreapp3.1\konsolen.AssemblyInfoInputs.cache
+C:\kod\c#\TE19B-ar2\konsolen\obj\Debug\netcoreapp3.1\konsolen.AssemblyInfo.cs
+C:\kod\c#\TE19B-ar2\konsolen\obj\Debug\netcoreapp3.1\konsolen.csproj.CoreCompileInputs.cache
+C:\kod\c#\TE19B-ar2\konsolen\obj\Debug\netcoreapp3.1\konsolen.dll
+C:\kod\c#\TE19B-ar2\konsolen\obj\Debug\netcoreapp3.1\konsolen.pdb
+C:\kod\c#\TE19B-ar2\konsolen\obj\Debug\netcoreapp3.1\konsolen.genruntimeconfig.cache

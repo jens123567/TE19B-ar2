@@ -1,0 +1,13 @@
+C:\kod\c#\TE19B-ar2\kapitel2\upgift1\bin\Debug\netcoreapp3.1\upgift1.exe
+C:\kod\c#\TE19B-ar2\kapitel2\upgift1\bin\Debug\netcoreapp3.1\upgift1.deps.json
+C:\kod\c#\TE19B-ar2\kapitel2\upgift1\bin\Debug\netcoreapp3.1\upgift1.runtimeconfig.json
+C:\kod\c#\TE19B-ar2\kapitel2\upgift1\bin\Debug\netcoreapp3.1\upgift1.runtimeconfig.dev.json
+C:\kod\c#\TE19B-ar2\kapitel2\upgift1\bin\Debug\netcoreapp3.1\upgift1.dll
+C:\kod\c#\TE19B-ar2\kapitel2\upgift1\bin\Debug\netcoreapp3.1\upgift1.pdb
+C:\kod\c#\TE19B-ar2\kapitel2\upgift1\obj\Debug\netcoreapp3.1\upgift1.csprojAssemblyReference.cache
+C:\kod\c#\TE19B-ar2\kapitel2\upgift1\obj\Debug\netcoreapp3.1\upgift1.AssemblyInfoInputs.cache
+C:\kod\c#\TE19B-ar2\kapitel2\upgift1\obj\Debug\netcoreapp3.1\upgift1.AssemblyInfo.cs
+C:\kod\c#\TE19B-ar2\kapitel2\upgift1\obj\Debug\netcoreapp3.1\upgift1.csproj.CoreCompileInputs.cache
+C:\kod\c#\TE19B-ar2\kapitel2\upgift1\obj\Debug\netcoreapp3.1\upgift1.dll
+C:\kod\c#\TE19B-ar2\kapitel2\upgift1\obj\Debug\netcoreapp3.1\upgift1.pdb
+C:\kod\c#\TE19B-ar2\kapitel2\upgift1\obj\Debug\netcoreapp3.1\upgift1.genruntimeconfig.cache
