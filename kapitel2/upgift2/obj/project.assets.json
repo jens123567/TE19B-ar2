@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\kod\\c#\\TE19B-ar2\\konsolen\\konsolen.csproj",
-      "projectName": "konsolen",
-      "projectPath": "C:\\kod\\c#\\TE19B-ar2\\konsolen\\konsolen.csproj",
+      "projectUniqueName": "C:\\kod\\c#\\TE19B-ar2\\kapitel2\\upgift2\\upgift2.csproj",
+      "projectName": "upgift2",
+      "projectPath": "C:\\kod\\c#\\TE19B-ar2\\kapitel2\\upgift2\\upgift2.csproj",
       "packagesPath": "C:\\Users\\jens.malmqvist\\.nuget\\packages\\",
-      "outputPath": "C:\\kod\\c#\\TE19B-ar2\\konsolen\\obj\\",
+      "outputPath": "C:\\kod\\c#\\TE19B-ar2\\kapitel2\\upgift2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jens.malmqvist\\AppData\\Roaming\\NuGet\\NuGet.Config",

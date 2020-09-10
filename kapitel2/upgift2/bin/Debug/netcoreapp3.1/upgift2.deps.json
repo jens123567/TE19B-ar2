@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "konsolen/1.0.0": {
+      "upgift2/1.0.0": {
         "runtime": {
-          "konsolen.dll": {}
+          "upgift2.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "konsolen/1.0.0": {
+    "upgift2/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
