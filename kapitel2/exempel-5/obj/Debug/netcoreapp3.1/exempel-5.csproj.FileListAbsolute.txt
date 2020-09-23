@@ -1,0 +1,13 @@
+C:\kod\c#\TE19B-ar2\kapitel2\exempel-5\bin\Debug\netcoreapp3.1\exempel-5.exe
+C:\kod\c#\TE19B-ar2\kapitel2\exempel-5\bin\Debug\netcoreapp3.1\exempel-5.deps.json
+C:\kod\c#\TE19B-ar2\kapitel2\exempel-5\bin\Debug\netcoreapp3.1\exempel-5.runtimeconfig.json
+C:\kod\c#\TE19B-ar2\kapitel2\exempel-5\bin\Debug\netcoreapp3.1\exempel-5.runtimeconfig.dev.json
+C:\kod\c#\TE19B-ar2\kapitel2\exempel-5\bin\Debug\netcoreapp3.1\exempel-5.dll
+C:\kod\c#\TE19B-ar2\kapitel2\exempel-5\bin\Debug\netcoreapp3.1\exempel-5.pdb
+C:\kod\c#\TE19B-ar2\kapitel2\exempel-5\obj\Debug\netcoreapp3.1\exempel-5.csprojAssemblyReference.cache
+C:\kod\c#\TE19B-ar2\kapitel2\exempel-5\obj\Debug\netcoreapp3.1\exempel-5.AssemblyInfoInputs.cache
+C:\kod\c#\TE19B-ar2\kapitel2\exempel-5\obj\Debug\netcoreapp3.1\exempel-5.AssemblyInfo.cs
+C:\kod\c#\TE19B-ar2\kapitel2\exempel-5\obj\Debug\netcoreapp3.1\exempel-5.csproj.CoreCompileInputs.cache
+C:\kod\c#\TE19B-ar2\kapitel2\exempel-5\obj\Debug\netcoreapp3.1\exempel-5.dll
+C:\kod\c#\TE19B-ar2\kapitel2\exempel-5\obj\Debug\netcoreapp3.1\exempel-5.pdb
+C:\kod\c#\TE19B-ar2\kapitel2\exempel-5\obj\Debug\netcoreapp3.1\exempel-5.genruntimeconfig.cache
