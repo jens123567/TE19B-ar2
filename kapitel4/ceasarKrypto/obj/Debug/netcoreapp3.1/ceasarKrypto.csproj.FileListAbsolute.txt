@@ -1,0 +1,13 @@
+C:\kod\c#\TE19B-ar2\kapitel4\ceasarKrypto\obj\Debug\netcoreapp3.1\ceasarKrypto.csprojAssemblyReference.cache
+C:\kod\c#\TE19B-ar2\kapitel4\ceasarKrypto\obj\Debug\netcoreapp3.1\ceasarKrypto.AssemblyInfoInputs.cache
+C:\kod\c#\TE19B-ar2\kapitel4\ceasarKrypto\obj\Debug\netcoreapp3.1\ceasarKrypto.AssemblyInfo.cs
+C:\kod\c#\TE19B-ar2\kapitel4\ceasarKrypto\obj\Debug\netcoreapp3.1\ceasarKrypto.csproj.CoreCompileInputs.cache
+C:\kod\c#\TE19B-ar2\kapitel4\ceasarKrypto\bin\Debug\netcoreapp3.1\ceasarKrypto.exe
+C:\kod\c#\TE19B-ar2\kapitel4\ceasarKrypto\bin\Debug\netcoreapp3.1\ceasarKrypto.deps.json
+C:\kod\c#\TE19B-ar2\kapitel4\ceasarKrypto\bin\Debug\netcoreapp3.1\ceasarKrypto.runtimeconfig.json
+C:\kod\c#\TE19B-ar2\kapitel4\ceasarKrypto\bin\Debug\netcoreapp3.1\ceasarKrypto.runtimeconfig.dev.json
+C:\kod\c#\TE19B-ar2\kapitel4\ceasarKrypto\bin\Debug\netcoreapp3.1\ceasarKrypto.dll
+C:\kod\c#\TE19B-ar2\kapitel4\ceasarKrypto\bin\Debug\netcoreapp3.1\ceasarKrypto.pdb
+C:\kod\c#\TE19B-ar2\kapitel4\ceasarKrypto\obj\Debug\netcoreapp3.1\ceasarKrypto.dll
+C:\kod\c#\TE19B-ar2\kapitel4\ceasarKrypto\obj\Debug\netcoreapp3.1\ceasarKrypto.pdb
+C:\kod\c#\TE19B-ar2\kapitel4\ceasarKrypto\obj\Debug\netcoreapp3.1\ceasarKrypto.genruntimeconfig.cache
