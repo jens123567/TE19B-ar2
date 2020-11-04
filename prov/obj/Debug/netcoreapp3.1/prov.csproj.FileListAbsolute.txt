@@ -1,0 +1,13 @@
+C:\kod\c#\TE19B-ar2\prov\obj\Debug\netcoreapp3.1\prov.csprojAssemblyReference.cache
+C:\kod\c#\TE19B-ar2\prov\obj\Debug\netcoreapp3.1\prov.AssemblyInfoInputs.cache
+C:\kod\c#\TE19B-ar2\prov\obj\Debug\netcoreapp3.1\prov.AssemblyInfo.cs
+C:\kod\c#\TE19B-ar2\prov\obj\Debug\netcoreapp3.1\prov.csproj.CoreCompileInputs.cache
+C:\kod\c#\TE19B-ar2\prov\bin\Debug\netcoreapp3.1\prov.exe
+C:\kod\c#\TE19B-ar2\prov\bin\Debug\netcoreapp3.1\prov.deps.json
+C:\kod\c#\TE19B-ar2\prov\bin\Debug\netcoreapp3.1\prov.runtimeconfig.json
+C:\kod\c#\TE19B-ar2\prov\bin\Debug\netcoreapp3.1\prov.runtimeconfig.dev.json
+C:\kod\c#\TE19B-ar2\prov\bin\Debug\netcoreapp3.1\prov.dll
+C:\kod\c#\TE19B-ar2\prov\bin\Debug\netcoreapp3.1\prov.pdb
+C:\kod\c#\TE19B-ar2\prov\obj\Debug\netcoreapp3.1\prov.dll
+C:\kod\c#\TE19B-ar2\prov\obj\Debug\netcoreapp3.1\prov.pdb
+C:\kod\c#\TE19B-ar2\prov\obj\Debug\netcoreapp3.1\prov.genruntimeconfig.cache
