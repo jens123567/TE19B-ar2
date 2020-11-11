@@ -1,0 +1,13 @@
+C:\kod\c#\TE19B-ar2\kapitel4\diceSimulator\obj\Debug\netcoreapp3.1\diceSimulator.csprojAssemblyReference.cache
+C:\kod\c#\TE19B-ar2\kapitel4\diceSimulator\obj\Debug\netcoreapp3.1\diceSimulator.AssemblyInfoInputs.cache
+C:\kod\c#\TE19B-ar2\kapitel4\diceSimulator\obj\Debug\netcoreapp3.1\diceSimulator.AssemblyInfo.cs
+C:\kod\c#\TE19B-ar2\kapitel4\diceSimulator\obj\Debug\netcoreapp3.1\diceSimulator.csproj.CoreCompileInputs.cache
+C:\kod\c#\TE19B-ar2\kapitel4\diceSimulator\bin\Debug\netcoreapp3.1\diceSimulator.exe
+C:\kod\c#\TE19B-ar2\kapitel4\diceSimulator\bin\Debug\netcoreapp3.1\diceSimulator.deps.json
+C:\kod\c#\TE19B-ar2\kapitel4\diceSimulator\bin\Debug\netcoreapp3.1\diceSimulator.runtimeconfig.json
+C:\kod\c#\TE19B-ar2\kapitel4\diceSimulator\bin\Debug\netcoreapp3.1\diceSimulator.runtimeconfig.dev.json
+C:\kod\c#\TE19B-ar2\kapitel4\diceSimulator\bin\Debug\netcoreapp3.1\diceSimulator.dll
+C:\kod\c#\TE19B-ar2\kapitel4\diceSimulator\bin\Debug\netcoreapp3.1\diceSimulator.pdb
+C:\kod\c#\TE19B-ar2\kapitel4\diceSimulator\obj\Debug\netcoreapp3.1\diceSimulator.dll
+C:\kod\c#\TE19B-ar2\kapitel4\diceSimulator\obj\Debug\netcoreapp3.1\diceSimulator.pdb
+C:\kod\c#\TE19B-ar2\kapitel4\diceSimulator\obj\Debug\netcoreapp3.1\diceSimulator.genruntimeconfig.cache
