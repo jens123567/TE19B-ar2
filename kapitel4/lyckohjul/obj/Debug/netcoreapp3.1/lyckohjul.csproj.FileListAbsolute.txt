@@ -1,0 +1,13 @@
+C:\kod\c#\TE19B-ar2\kapitel4\lyckohjul\obj\Debug\netcoreapp3.1\lyckohjul.csprojAssemblyReference.cache
+C:\kod\c#\TE19B-ar2\kapitel4\lyckohjul\obj\Debug\netcoreapp3.1\lyckohjul.AssemblyInfoInputs.cache
+C:\kod\c#\TE19B-ar2\kapitel4\lyckohjul\obj\Debug\netcoreapp3.1\lyckohjul.AssemblyInfo.cs
+C:\kod\c#\TE19B-ar2\kapitel4\lyckohjul\obj\Debug\netcoreapp3.1\lyckohjul.csproj.CoreCompileInputs.cache
+C:\kod\c#\TE19B-ar2\kapitel4\lyckohjul\bin\Debug\netcoreapp3.1\lyckohjul.exe
+C:\kod\c#\TE19B-ar2\kapitel4\lyckohjul\bin\Debug\netcoreapp3.1\lyckohjul.deps.json
+C:\kod\c#\TE19B-ar2\kapitel4\lyckohjul\bin\Debug\netcoreapp3.1\lyckohjul.runtimeconfig.json
+C:\kod\c#\TE19B-ar2\kapitel4\lyckohjul\bin\Debug\netcoreapp3.1\lyckohjul.runtimeconfig.dev.json
+C:\kod\c#\TE19B-ar2\kapitel4\lyckohjul\bin\Debug\netcoreapp3.1\lyckohjul.dll
+C:\kod\c#\TE19B-ar2\kapitel4\lyckohjul\bin\Debug\netcoreapp3.1\lyckohjul.pdb
+C:\kod\c#\TE19B-ar2\kapitel4\lyckohjul\obj\Debug\netcoreapp3.1\lyckohjul.dll
+C:\kod\c#\TE19B-ar2\kapitel4\lyckohjul\obj\Debug\netcoreapp3.1\lyckohjul.pdb
+C:\kod\c#\TE19B-ar2\kapitel4\lyckohjul\obj\Debug\netcoreapp3.1\lyckohjul.genruntimeconfig.cache
