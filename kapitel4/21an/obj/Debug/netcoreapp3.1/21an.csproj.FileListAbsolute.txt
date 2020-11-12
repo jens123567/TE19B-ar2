@@ -1,0 +1,13 @@
+C:\kod\c#\TE19B-ar2\kapitel4\21an\obj\Debug\netcoreapp3.1\21an.csprojAssemblyReference.cache
+C:\kod\c#\TE19B-ar2\kapitel4\21an\obj\Debug\netcoreapp3.1\21an.AssemblyInfoInputs.cache
+C:\kod\c#\TE19B-ar2\kapitel4\21an\obj\Debug\netcoreapp3.1\21an.AssemblyInfo.cs
+C:\kod\c#\TE19B-ar2\kapitel4\21an\obj\Debug\netcoreapp3.1\21an.csproj.CoreCompileInputs.cache
+C:\kod\c#\TE19B-ar2\kapitel4\21an\bin\Debug\netcoreapp3.1\21an.exe
+C:\kod\c#\TE19B-ar2\kapitel4\21an\bin\Debug\netcoreapp3.1\21an.deps.json
+C:\kod\c#\TE19B-ar2\kapitel4\21an\bin\Debug\netcoreapp3.1\21an.runtimeconfig.json
+C:\kod\c#\TE19B-ar2\kapitel4\21an\bin\Debug\netcoreapp3.1\21an.runtimeconfig.dev.json
+C:\kod\c#\TE19B-ar2\kapitel4\21an\bin\Debug\netcoreapp3.1\21an.dll
+C:\kod\c#\TE19B-ar2\kapitel4\21an\bin\Debug\netcoreapp3.1\21an.pdb
+C:\kod\c#\TE19B-ar2\kapitel4\21an\obj\Debug\netcoreapp3.1\21an.dll
+C:\kod\c#\TE19B-ar2\kapitel4\21an\obj\Debug\netcoreapp3.1\21an.pdb
+C:\kod\c#\TE19B-ar2\kapitel4\21an\obj\Debug\netcoreapp3.1\21an.genruntimeconfig.cache
