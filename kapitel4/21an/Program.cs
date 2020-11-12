@@ -76,37 +76,36 @@ namespace _21an
                                     break;
                             }
 
-                            // Gå tillbaka till huvudmenyn om användaren har över 21
-                            if (spelarensPoäng > 21)
-                            {
-                                Console.WriteLine("Du har mer än 21 och har förlorat");
-                                break;
-                            }
+                        }
 
-                            // Datorn drar kort tills den vinner eller går över 21
-                            while (datornsPoäng < spelarensPoäng && datornsPoäng <= 21)
-                            {
-                                int datornsNyaPoäng = slump.Next(1, 11);
-                                datornsPoäng += datornsNyaPoäng;
-                                Console.WriteLine($"Datorn drog ett kort värt {datornsNyaPoäng}");
-                            }
+                        // Gå tillbaka till huvudmenyn om användaren har över 21
+                        if (spelarensPoäng > 21)
+                        {
+                            Console.WriteLine("Du har mer än 21 och har förlorat");
+                            break;
+                        }
 
-                            Console.WriteLine($"Din poäng: {spelarensPoäng}");
-                            Console.WriteLine($"Datorns poäng: {datornsPoäng}");
+                        // Datorn drar kort tills den vinner eller går över 21
+                        while (datornsPoäng < spelarensPoäng && datornsPoäng <= 21)
+                        {
+                            int datornsNyaPoäng = slump.Next(1, 11);
+                            datornsPoäng += datornsNyaPoäng;
+                            Console.WriteLine($"Datorn drog ett kort värt {datornsNyaPoäng}");
+                        }
 
-                            // Undersök vem som vann
-                            if (datornsPoäng > 21)
-                            {
-                                Console.WriteLine("Du har vunnit!");
-                                Console.WriteLine("Skriv in ditt namn");
-                                senasteVinnaren = Console.ReadLine();
-                            }
-                            else
-                            {
-                                Console.WriteLine("Datorn har vunnit hur!");
-                            }
+                        Console.WriteLine($"Din poäng: {spelarensPoäng}");
+                        Console.WriteLine($"Datorns poäng: {datornsPoäng}");
 
-
+                        // Undersök vem som vann
+                        if (datornsPoäng > 21)
+                        {
+                            Console.WriteLine("Du har vunnit!");
+                            Console.WriteLine("Skriv in ditt namn");
+                            senasteVinnaren = Console.ReadLine();
+                        }
+                        else
+                        {
+                            Console.WriteLine("Datorn har vunnit hur!");
                         }
                         break;
 
