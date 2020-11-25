@@ -1,0 +1,13 @@
+C:\kod\c#\TE19B-ar2\kapitel5\morseTolk\bin\Debug\netcoreapp3.1\morseTolk.exe
+C:\kod\c#\TE19B-ar2\kapitel5\morseTolk\bin\Debug\netcoreapp3.1\morseTolk.deps.json
+C:\kod\c#\TE19B-ar2\kapitel5\morseTolk\bin\Debug\netcoreapp3.1\morseTolk.runtimeconfig.json
+C:\kod\c#\TE19B-ar2\kapitel5\morseTolk\bin\Debug\netcoreapp3.1\morseTolk.runtimeconfig.dev.json
+C:\kod\c#\TE19B-ar2\kapitel5\morseTolk\bin\Debug\netcoreapp3.1\morseTolk.dll
+C:\kod\c#\TE19B-ar2\kapitel5\morseTolk\bin\Debug\netcoreapp3.1\morseTolk.pdb
+C:\kod\c#\TE19B-ar2\kapitel5\morseTolk\obj\Debug\netcoreapp3.1\morseTolk.csprojAssemblyReference.cache
+C:\kod\c#\TE19B-ar2\kapitel5\morseTolk\obj\Debug\netcoreapp3.1\morseTolk.AssemblyInfoInputs.cache
+C:\kod\c#\TE19B-ar2\kapitel5\morseTolk\obj\Debug\netcoreapp3.1\morseTolk.AssemblyInfo.cs
+C:\kod\c#\TE19B-ar2\kapitel5\morseTolk\obj\Debug\netcoreapp3.1\morseTolk.csproj.CoreCompileInputs.cache
+C:\kod\c#\TE19B-ar2\kapitel5\morseTolk\obj\Debug\netcoreapp3.1\morseTolk.dll
+C:\kod\c#\TE19B-ar2\kapitel5\morseTolk\obj\Debug\netcoreapp3.1\morseTolk.pdb
+C:\kod\c#\TE19B-ar2\kapitel5\morseTolk\obj\Debug\netcoreapp3.1\morseTolk.genruntimeconfig.cache

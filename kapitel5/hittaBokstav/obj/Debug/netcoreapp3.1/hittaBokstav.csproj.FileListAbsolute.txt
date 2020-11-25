@@ -1,0 +1,13 @@
+C:\kod\c#\TE19B-ar2\kapitel5\hittaBokstav\bin\Debug\netcoreapp3.1\hittaBokstav.exe
+C:\kod\c#\TE19B-ar2\kapitel5\hittaBokstav\bin\Debug\netcoreapp3.1\hittaBokstav.deps.json
+C:\kod\c#\TE19B-ar2\kapitel5\hittaBokstav\bin\Debug\netcoreapp3.1\hittaBokstav.runtimeconfig.json
+C:\kod\c#\TE19B-ar2\kapitel5\hittaBokstav\bin\Debug\netcoreapp3.1\hittaBokstav.runtimeconfig.dev.json
+C:\kod\c#\TE19B-ar2\kapitel5\hittaBokstav\bin\Debug\netcoreapp3.1\hittaBokstav.dll
+C:\kod\c#\TE19B-ar2\kapitel5\hittaBokstav\bin\Debug\netcoreapp3.1\hittaBokstav.pdb
+C:\kod\c#\TE19B-ar2\kapitel5\hittaBokstav\obj\Debug\netcoreapp3.1\hittaBokstav.csprojAssemblyReference.cache
+C:\kod\c#\TE19B-ar2\kapitel5\hittaBokstav\obj\Debug\netcoreapp3.1\hittaBokstav.AssemblyInfoInputs.cache
+C:\kod\c#\TE19B-ar2\kapitel5\hittaBokstav\obj\Debug\netcoreapp3.1\hittaBokstav.AssemblyInfo.cs
+C:\kod\c#\TE19B-ar2\kapitel5\hittaBokstav\obj\Debug\netcoreapp3.1\hittaBokstav.csproj.CoreCompileInputs.cache
+C:\kod\c#\TE19B-ar2\kapitel5\hittaBokstav\obj\Debug\netcoreapp3.1\hittaBokstav.dll
+C:\kod\c#\TE19B-ar2\kapitel5\hittaBokstav\obj\Debug\netcoreapp3.1\hittaBokstav.pdb
+C:\kod\c#\TE19B-ar2\kapitel5\hittaBokstav\obj\Debug\netcoreapp3.1\hittaBokstav.genruntimeconfig.cache
