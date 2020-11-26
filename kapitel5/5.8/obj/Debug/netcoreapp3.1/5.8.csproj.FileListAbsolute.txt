@@ -1,0 +1,13 @@
+C:\kod\c#\TE19B-ar2\kapitel5\5.8\bin\Debug\netcoreapp3.1\5.8.exe
+C:\kod\c#\TE19B-ar2\kapitel5\5.8\bin\Debug\netcoreapp3.1\5.8.deps.json
+C:\kod\c#\TE19B-ar2\kapitel5\5.8\bin\Debug\netcoreapp3.1\5.8.runtimeconfig.json
+C:\kod\c#\TE19B-ar2\kapitel5\5.8\bin\Debug\netcoreapp3.1\5.8.runtimeconfig.dev.json
+C:\kod\c#\TE19B-ar2\kapitel5\5.8\bin\Debug\netcoreapp3.1\5.8.dll
+C:\kod\c#\TE19B-ar2\kapitel5\5.8\bin\Debug\netcoreapp3.1\5.8.pdb
+C:\kod\c#\TE19B-ar2\kapitel5\5.8\obj\Debug\netcoreapp3.1\5.8.csprojAssemblyReference.cache
+C:\kod\c#\TE19B-ar2\kapitel5\5.8\obj\Debug\netcoreapp3.1\5.8.AssemblyInfoInputs.cache
+C:\kod\c#\TE19B-ar2\kapitel5\5.8\obj\Debug\netcoreapp3.1\5.8.AssemblyInfo.cs
+C:\kod\c#\TE19B-ar2\kapitel5\5.8\obj\Debug\netcoreapp3.1\5.8.csproj.CoreCompileInputs.cache
+C:\kod\c#\TE19B-ar2\kapitel5\5.8\obj\Debug\netcoreapp3.1\5.8.dll
+C:\kod\c#\TE19B-ar2\kapitel5\5.8\obj\Debug\netcoreapp3.1\5.8.pdb
+C:\kod\c#\TE19B-ar2\kapitel5\5.8\obj\Debug\netcoreapp3.1\5.8.genruntimeconfig.cache
