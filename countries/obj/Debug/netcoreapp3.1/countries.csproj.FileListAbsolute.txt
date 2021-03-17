@@ -1,0 +1,13 @@
+C:\kod\c#\TE19B-ar2\countries\obj\Debug\netcoreapp3.1\countries.csprojAssemblyReference.cache
+C:\kod\c#\TE19B-ar2\countries\obj\Debug\netcoreapp3.1\countries.AssemblyInfoInputs.cache
+C:\kod\c#\TE19B-ar2\countries\obj\Debug\netcoreapp3.1\countries.AssemblyInfo.cs
+C:\kod\c#\TE19B-ar2\countries\obj\Debug\netcoreapp3.1\countries.csproj.CoreCompileInputs.cache
+C:\kod\c#\TE19B-ar2\countries\bin\Debug\netcoreapp3.1\countries.exe
+C:\kod\c#\TE19B-ar2\countries\bin\Debug\netcoreapp3.1\countries.deps.json
+C:\kod\c#\TE19B-ar2\countries\bin\Debug\netcoreapp3.1\countries.runtimeconfig.json
+C:\kod\c#\TE19B-ar2\countries\bin\Debug\netcoreapp3.1\countries.runtimeconfig.dev.json
+C:\kod\c#\TE19B-ar2\countries\bin\Debug\netcoreapp3.1\countries.dll
+C:\kod\c#\TE19B-ar2\countries\bin\Debug\netcoreapp3.1\countries.pdb
+C:\kod\c#\TE19B-ar2\countries\obj\Debug\netcoreapp3.1\countries.dll
+C:\kod\c#\TE19B-ar2\countries\obj\Debug\netcoreapp3.1\countries.pdb
+C:\kod\c#\TE19B-ar2\countries\obj\Debug\netcoreapp3.1\countries.genruntimeconfig.cache

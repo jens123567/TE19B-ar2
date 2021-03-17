@@ -1,0 +1,13 @@
+C:\kod\c#\TE19B-ar2\bordshanterare\bin\Debug\netcoreapp3.1\bordshanterare.exe
+C:\kod\c#\TE19B-ar2\bordshanterare\bin\Debug\netcoreapp3.1\bordshanterare.deps.json
+C:\kod\c#\TE19B-ar2\bordshanterare\bin\Debug\netcoreapp3.1\bordshanterare.runtimeconfig.json
+C:\kod\c#\TE19B-ar2\bordshanterare\bin\Debug\netcoreapp3.1\bordshanterare.runtimeconfig.dev.json
+C:\kod\c#\TE19B-ar2\bordshanterare\bin\Debug\netcoreapp3.1\bordshanterare.dll
+C:\kod\c#\TE19B-ar2\bordshanterare\bin\Debug\netcoreapp3.1\bordshanterare.pdb
+C:\kod\c#\TE19B-ar2\bordshanterare\obj\Debug\netcoreapp3.1\bordshanterare.csprojAssemblyReference.cache
+C:\kod\c#\TE19B-ar2\bordshanterare\obj\Debug\netcoreapp3.1\bordshanterare.AssemblyInfoInputs.cache
+C:\kod\c#\TE19B-ar2\bordshanterare\obj\Debug\netcoreapp3.1\bordshanterare.AssemblyInfo.cs
+C:\kod\c#\TE19B-ar2\bordshanterare\obj\Debug\netcoreapp3.1\bordshanterare.csproj.CoreCompileInputs.cache
+C:\kod\c#\TE19B-ar2\bordshanterare\obj\Debug\netcoreapp3.1\bordshanterare.dll
+C:\kod\c#\TE19B-ar2\bordshanterare\obj\Debug\netcoreapp3.1\bordshanterare.pdb
+C:\kod\c#\TE19B-ar2\bordshanterare\obj\Debug\netcoreapp3.1\bordshanterare.genruntimeconfig.cache
