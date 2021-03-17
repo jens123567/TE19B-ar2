@@ -1,0 +1,13 @@
+C:\kod\c#\TE19B-ar2\labbar\expert1000\bin\Debug\netcoreapp3.1\expert1000.exe
+C:\kod\c#\TE19B-ar2\labbar\expert1000\bin\Debug\netcoreapp3.1\expert1000.deps.json
+C:\kod\c#\TE19B-ar2\labbar\expert1000\bin\Debug\netcoreapp3.1\expert1000.runtimeconfig.json
+C:\kod\c#\TE19B-ar2\labbar\expert1000\bin\Debug\netcoreapp3.1\expert1000.runtimeconfig.dev.json
+C:\kod\c#\TE19B-ar2\labbar\expert1000\bin\Debug\netcoreapp3.1\expert1000.dll
+C:\kod\c#\TE19B-ar2\labbar\expert1000\bin\Debug\netcoreapp3.1\expert1000.pdb
+C:\kod\c#\TE19B-ar2\labbar\expert1000\obj\Debug\netcoreapp3.1\expert1000.csprojAssemblyReference.cache
+C:\kod\c#\TE19B-ar2\labbar\expert1000\obj\Debug\netcoreapp3.1\expert1000.AssemblyInfoInputs.cache
+C:\kod\c#\TE19B-ar2\labbar\expert1000\obj\Debug\netcoreapp3.1\expert1000.AssemblyInfo.cs
+C:\kod\c#\TE19B-ar2\labbar\expert1000\obj\Debug\netcoreapp3.1\expert1000.csproj.CoreCompileInputs.cache
+C:\kod\c#\TE19B-ar2\labbar\expert1000\obj\Debug\netcoreapp3.1\expert1000.dll
+C:\kod\c#\TE19B-ar2\labbar\expert1000\obj\Debug\netcoreapp3.1\expert1000.pdb
+C:\kod\c#\TE19B-ar2\labbar\expert1000\obj\Debug\netcoreapp3.1\expert1000.genruntimeconfig.cache
