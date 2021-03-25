@@ -10,6 +10,10 @@ namespace _6._9
             double decimaltal = ReadDouble();
             Console.WriteLine(decimaltal);
         }
+        /// <summary>
+        /// Metoden läser in och testar doubles
+        /// </summary>
+        /// <returns>decimaltal</returns>
         static double ReadDouble()
         {
             double tal;
