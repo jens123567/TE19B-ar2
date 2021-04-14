@@ -2,6 +2,9 @@
 
 namespace prov3
 {
+
+
+
     class Program
     {
         static void Main(string[] args)
@@ -88,6 +91,7 @@ namespace prov3
             Console.ForegroundColor = ConsoleColor.White;
 
             Console.WriteLine("Välj en planet att jämföra med jordår");
+
             Console.WriteLine("1. Mekurius");
             Console.WriteLine("2. Venus");
             Console.WriteLine("3. Mars");
